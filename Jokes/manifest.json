@@ -1,0 +1,12 @@
+{
+    "name": "JokeJive",
+    "description": "Get a new joke every day",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action":{
+        "default_popup":"popup.html",
+       "default_icon": "images/icon-32.png"
+      
+    }
+  
+}
